@@ -1,2 +1,2 @@
 # Nhà Bán Chính Chủ
-Website bất động sản chính chủ hiển thị dữ liệu mẫu.
+Website giao diện đầy đủ có lọc, tìm kiếm, ảnh và địa chỉ rõ ràng.
