@@ -1,2 +1,2 @@
-# Nhà Bán Chính Chủ
-Website giao diện đầy đủ có lọc, tìm kiếm, ảnh và địa chỉ rõ ràng.
+# Nhà Bán Chính Chủ – Tailwind Full Site
+Website chính chủ với giao diện đẹp, lọc quận, tìm kiếm, ảnh demo.
