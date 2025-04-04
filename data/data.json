@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Bán nhà quận 1, 3 tầng, SHR",
+    "price": "5.2 tỷ",
+    "area": "68m²",
+    "district": "Quận 1",
+    "description": "Nhà chính chủ, hẻm rộng, gần chợ Bến Thành.",
+    "address": "123 Lý Tự Trọng, Quận 1, TP.HCM",
+    "phone": "0909123456",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "title": "Nhà cấp 4 Gò Vấp – Giá mềm",
+    "price": "2.9 tỷ",
+    "area": "42m²",
+    "district": "Gò Vấp",
+    "description": "Chính chủ cần bán nhanh, khu an ninh, dân trí cao.",
+    "address": "45 Phạm Văn Chiêu, Gò Vấp, TP.HCM",
+    "phone": "0909988776",
+    "image": "https://via.placeholder.com/150"
+  }
+]
